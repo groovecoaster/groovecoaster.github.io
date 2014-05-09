@@ -4,6 +4,7 @@
 @import url(http://fonts.googleapis.com/css?family=Lemon);
 @import url(http://fonts.googleapis.com/css?family=Sonsie+One);
 @import url(http://fonts.googleapis.com/css?family=Black+Ops+One);
+@import url(http://fonts.googleapis.com/css?family=Russo+One);
 li{
     font-family: 'Galindo', cursive;
 }
@@ -16,10 +17,32 @@ body{
 }
 
 
+.back{
+    
+    border-top-width:medium;
+    border-top-color:blue;
+    border-top-style:none;
+    
+     border-right-width:medium;      
+     border-right-color:blue;
+     border-right-style:none;
+    
+        border-bottom-width:medium; 
+        border-bottom-color:blue;
+        border-bottom-style:none;
+    
+    
+        border-left-width:medium;
+        border-left-color:blue;
+        border-left-style:none;
+    text-decoration:none;
 
-/*
+}
+    
+
+
 font-family: 'Sigmar One', cursive;
 font-family: 'Lemon', cursive;
 font-family: 'Sonsie One', cursive;
 font-family: 'Black Ops One', cursive;
-/*
+font-family: 'Russo One', sans-serif;
